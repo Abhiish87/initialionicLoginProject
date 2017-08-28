@@ -4,7 +4,7 @@
    // Define database connection parameters
    $hn      = 'localhost';
    $un      = 'Abhishek';
-   $pwd     = '9391607460';
+   $pwd     = '';
    $db      = 'customerdetails';
    $cs      = 'utf8';
 
